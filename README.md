@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marin Mikleušević</h1>
 <h3 align="left">A passionate unity developer from Croatia with a web development background</h3>
 <p align="left">
-- 🔭 I’m currently working on [PeaShooter](https://github.com/mmikleusevic/PeaShooter)
+- 🔭 I’m currently working on some passion projects
 </p>
 <p align="left">
-- 🌱 I’m currently learning **DOTS, ECS**
-</p>
-<p align="left">
-- 📫 How to reach me **mikleusevicmarin@gmail.com**
+- 🌱 I’m currently learning **Unity and it's tools**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
