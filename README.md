@@ -1,5 +1,5 @@
 ## 📚 CV:
-[![CV](https://img.shields.io/badge/CV-white?logo=google%20drive&logoColor=white&color=%23EA4336)](https://drive.google.com/file/d/1-nTdK43kP6ZEFbpfnwLi9tmG96s_zvwq/view?usp=sharing)
+[![CV](https://img.shields.io/badge/CV-white?logo=google%20drive&logoColor=white&color=%23EA4336)]([https://drive.google.com/file/d/1-nTdK43kP6ZEFbpfnwLi9tmG96s_zvwq/view?usp=sharing])
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikleusevicmarin@gmail.com) 
